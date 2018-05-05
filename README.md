@@ -16,7 +16,7 @@
 
 
 4.-- 使用dd抽出檔案 --(dd if=carter.jpg of=carter-1.jpg skip=140147 bs=1)
-
+![圖片](pic/binwalk.png)
 
 
 (if是指定輸入檔
