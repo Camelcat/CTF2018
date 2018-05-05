@@ -12,11 +12,11 @@
 
 
 3.-- 使用binwalk分析檔案--(binwalk carter.jpg)
-
+![圖片](pic/binwalk.png)
 
 
 4.-- 使用dd抽出檔案 --(dd if=carter.jpg of=new.jpg skip=140147 bs=1)
-![圖片](pic/binwalk.png)
+
 
 
 (if是指定輸入檔
