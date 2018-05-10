@@ -40,3 +40,5 @@
 1.-- 查看檔案內藏的字串 --(猜 CTF/.........)
 
 ![圖片](pic/justopenit/strings.png)
+
+![圖片](pic/justopenit/strings GREP.png)
