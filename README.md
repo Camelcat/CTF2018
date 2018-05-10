@@ -42,3 +42,18 @@
 ![圖片](pic/justopenit/strings.png)
 
 ![圖片](pic/justopenit/stringsGREP.png)
+
+
+---#CSAW QUALS 2015: keep-calm-and-ctf---
+
+1.-- 確定檔案格式 --
+
+
+2.-- 查看檔案內藏的字串 --(猜 CTF/.........)
+
+3.-- 安裝工具並學習使用技術 --(jpg metadata linux)
+
+4.-- 查看檔案並讀出答案 --
+
+![picture](pic/keepkalmandctf/exiftool.png)
+
