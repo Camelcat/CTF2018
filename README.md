@@ -41,4 +41,4 @@
 
 ![圖片](pic/justopenit/strings.png)
 
-![圖片](pic/justopenit/strings GREP.png)
+![圖片](pic/justopenit/stringsGREP.png)
