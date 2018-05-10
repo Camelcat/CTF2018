@@ -39,4 +39,4 @@
 
 1.-- 查看檔案內藏的字串 --(猜 CTF/.........)
 
-![圖片](just open it/strings.png)
+![圖片](pic/just open it/strings.png)
